@@ -1,0 +1,89 @@
+<html>
+<head>
+<title>Tabla</title>
+</head>
+<body background="
+https://i.pinimg.com/originals/b8/50/85/b850858fed286ddb8c908510a184c9ac.gif">
+
+<table border="0" bgcolor="darkblue">
+<tr>
+<td>
+<p> Lista no Ordenada Circle </p>
+<Ul type="circle">
+<li>Costa Rica
+<li>Colombia
+<li>China
+</ul>
+</td>
+<td>
+</td>
+<td>
+<p> Lista de Def</p>
+<dl>
+<dt>Computadora
+<dd>Artefacto capaz de almacenar información
+<dt>hardware
+<dd>Conjunto de elementos tangibles
+<dt>Software
+<dd>Conjunto de programas y rutinas
+</dl>
+</td>
+</tr>
+
+<tr>
+<td> </td>
+<td>
+<p> Lista de ropa 1 </p>
+<ol type="1">
+<li>Camisa
+<li>Abrigo
+<li>Chaleco
+</ol>
+</td>
+<td> </td>
+</tr>
+
+<tr>
+<td>
+<p> Lista de ropa a</p>
+<ol type="a">
+<li>Gorra
+<li>Jean
+<li>Zapatos
+</ol>
+</td>
+<td>
+<img src="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/07/origen-nombres-informatica-nunca-hubieras-imaginado_2.jpg" width="400" height="400">
+</td>
+<td>
+<p> Lista no Ordenada Square </p>
+<Ul type="square">
+<li>Puerto Rico
+<li>Cuba
+<li>Chile
+</ul>
+</td>
+</tr>
+
+<tr>
+<td>
+<p> Países </p>
+<Ul type="disc">
+<li>Mexico
+<li>Honduras
+<li>Uruguay
+</ul>
+</td>
+<td> </td>
+<td>
+<p> Lista de Ropa I Start</p>
+<ol type="i" start="10">
+<li>pulsera
+<li>sombrero
+<li>Polo
+</ol>
+</td>
+</tr>
+
+</body>
+</html>
